@@ -251,10 +251,10 @@ python collect_env.py          # Collect environment information
 
 ## Additional Resources
 
-- [Code Review Guidelines](.github/CODE_REVIEW_GUIDELINES.md)
-- [Contributing Guide](CONTRIBUTING.md)
-- [Quick Start Guide](bootstrap.md)
-- [Migration Plan](.github/prompts/plan-uvOnlyRuffUvBuildMigration.prompt.md)
+- [Code Review Guidelines](CODE_REVIEW_GUIDELINES.md)
+- [Contributing Guide](../CONTRIBUTING.md)
+- [Quick Start Guide](../bootstrap.md)
+- [Migration Plan](prompts/plan-uvOnlyRuffUvBuildMigration.prompt.md)
 
 ## Notes for Copilot
 
